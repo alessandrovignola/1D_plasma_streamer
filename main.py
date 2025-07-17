@@ -26,7 +26,7 @@ def run_method(name):
 
 # Main code
 if __name__ == "__main__":
-    method_names = ["Semi-implicit"]
+    method_names = ["Current-lim","RK4","Semi-implicit"]
 
     results = {}
     with Executor() as executor:

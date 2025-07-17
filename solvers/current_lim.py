@@ -1,4 +1,4 @@
-# Solver based on Teunnissen's current limited approach
+# Solver based on Streamer's current limited approach
 
 from shared import *
 
